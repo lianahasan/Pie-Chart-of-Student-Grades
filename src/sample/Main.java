@@ -24,7 +24,7 @@ public class Main extends Application {
     public static final String driver = "com.mysql.jdbc.Driver";
     public static final String url = "jdbc:mysql://localhost/";
     public static final String user = "root";
-    public static final String pass = "orange";
+    public static final String pass = "";
     public Connection conn;
 
     @Override
